@@ -9,7 +9,6 @@ function App() {
   const getQuote = async () => {
     const get = await fetch("https://api.kanye.rest");
     const json = await get.json();
-
     setQuote(json.quote);
   };
 
