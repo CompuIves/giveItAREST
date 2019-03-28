@@ -1,2 +1,0 @@
-# giveItAREST
-Created with CodeSandbox
